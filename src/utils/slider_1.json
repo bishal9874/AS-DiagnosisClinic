@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Blood pressure",
+      "price": "30",
+      "detail": "Blood pressure is the continuous measurement of the force of blood inside your arteries as your heart pumps oxygen and nutrients to your body 60-100 times per minute, 24/7.",
+      "image": "src/assets/sliderImg/BP.jpg"
+    },
+    {
+      "name": "Blood Tests",
+      "price": "50",
+      "detail": "Regular blood testing is crucial for monitoring your physical well-being, enabling you to observe and understand your body's changes over time, empowering informed health decisions.",
+      "image": "src/assets/sliderImg/blood-test.jpg"
+    },
+    {
+      "name": "ECG(electrocardiogram)",
+      "price": "50",
+      "detail": "Electrocardiogram (ECG is) a simple, non-invasive test that uses skin sensors to detect and analyze your heart's electrical activity and rhythm.",
+      "image": "src/assets/sliderImg/ECG.jpg"
+    },
+    {
+      "name": "Stool test",
+      "price": "free",
+      "detail": "If you’ve been having stomach problems, your doctor might order a stool culture or ask for a stool sample. This test can look in your poop for bacteria, a virus, or other germs that might be making you sick.",
+      "image": "src/assets/sliderImg/StoolTest.jpg"
+    },
+    {
+      "name": "Stool test",
+      "price": "free",
+      "detail": "If you’ve been having stomach problems, your doctor might order a stool culture or ask for a stool sample. This test can look in your poop for bacteria, a virus, or other germs that might be making you sick.",
+      "image": "src/assets/sliderImg/StoolTest.jpg"
+    },{
+      "name": "Blood pressure",
+      "price": "30",
+      "detail": "Blood pressure is the continuous measurement of the force of blood inside your arteries as your heart pumps oxygen and nutrients to your body 60-100 times per minute, 24/7.",
+      "image": "src/assets/sliderImg/BP.jpg"
+    },
+    {
+      "name": "Blood Tests",
+      "price": "50",
+      "detail": "Regular blood testing is crucial for monitoring your physical well-being, enabling you to observe and understand your body's changes over time, empowering informed health decisions.",
+      "image": "src/assets/sliderImg/blood-test.jpg"
+    },
+    {
+      "name": "ECG(electrocardiogram)",
+      "price": "50",
+      "detail": "Electrocardiogram (ECG is) a simple, non-invasive test that uses skin sensors to detect and analyze your heart's electrical activity and rhythm.",
+      "image": "src/assets/sliderImg/ECG.jpg"
+    },
+    {
+      "name": "Stool test",
+      "price": "free",
+      "detail": "If you’ve been having stomach problems, your doctor might order a stool culture or ask for a stool sample. This test can look in your poop for bacteria, a virus, or other germs that might be making you sick.",
+      "image": "src/assets/sliderImg/StoolTest.jpg"
+    },
+    {
+      "name": "Stool test",
+      "price": "free",
+      "detail": "If you’ve been having stomach problems, your doctor might order a stool culture or ask for a stool sample. This test can look in your poop for bacteria, a virus, or other germs that might be making you sick.",
+      "image": "src/assets/sliderImg/StoolTest.jpg"
+    }
+  ]
+  

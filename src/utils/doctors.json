@@ -1,0 +1,36 @@
+[
+    { 
+      
+      "name": "Dr. Asok Datta",
+      "detail": "Drug Counselor (Ruby Hospital)",
+      "image": "src/assets/doctors/doctor_PNG15980.png",
+      "specialist":"General Practioner",
+      "days":"Mon to Sat",
+      "time":"5.30 pm to 7.30pm"
+    },
+    {
+      "name": "Dr. Pradip Chaudhuri",
+      "detail": "M.B.B.S (CAL), SSKMH",
+      "image": "src/assets/doctors/Doctor-PNG-Clipart.png",
+      "specialist":"Consultant Physician",
+      "days":"Mon to Sat",
+      "time":"8 am to 9 am"
+    },
+    {
+      "name": "Dr. Sayantan Saha",
+      "detail": "M.D (CAL)",
+      "image": "src/assets/doctors/pngimg.com - doctor_PNG15959.png",
+      "specialist":"Chest Specialist",
+      "days":"By appointment",
+      "time":"5.30 pm to 7.30pm"
+    },
+    {
+      "name": "Dr. Gautam Guha",
+      "detail": "M.B.B.S,DGO.(Gold  Medalist)",
+      "image": "src/assets/doctors/pngimg.com - doctor_PNG15992.png",
+      "specialist":"Neurology",
+      "days":"By appointment",
+      "time":"5.30 pm to 7.30pm"
+    }
+  ]
+  

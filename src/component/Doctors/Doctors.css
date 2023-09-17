@@ -1,0 +1,45 @@
+.mainDoctorsCon {
+  display: flex;
+  flex-direction: row;
+  /* overflow-x: auto;
+  white-space: nowrap; */
+  row-gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.docImage {
+  height: 250px;
+  width: 200px;
+  
+}
+.docImgContainer {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  overflow: hidden;
+  border: 5px solid rgb(0, 119, 255); /* Replace "red" with your desired color */
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+.mobileContainers {
+  max-width: 150px;
+}
+.detailsDoc {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.doctorsContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+@media (max-width: 580px) {
+ 
+  .mainDoctorsCon {
+    display: flex;
+    flex-direction: row; 
+  }
+}
